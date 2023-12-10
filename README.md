@@ -1,4 +1,7 @@
 # Drug-net
+
+*Analyses conducted by: **Michael Akpabey**, Thomas Chen, Ethan Kahana, and Katherine Lev*
+
 A project focused on the development of gene-association networks for combination of bacteriophage-antibiotic drug treatments and E. coli genes using datasets for antibiotic-gene and bacteriophage-gene interactions.
 
 Data files came from the impact of antibacterial treatments on bacteria and also bacteriophage treatments. 
